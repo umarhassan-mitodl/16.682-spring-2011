@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ]
+  ],
+  "legacy_uid": "5961d60f-ca77-0ba2-a353-4b39bb0fac64",
+  "instructors": {
+    "content": [
+      "4df4a35f-3306-08f2-d743-1d9f735d8502"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e79220e0-9bfb-a790-b6fa-79d4fbedc270",
+    "website": "16-682-technology-in-transportation-spring-2011"
+  },
+  "course_title": "Technology in Transportation",
+  "course_description": "This course provides an introduction to the transportation industry's major technical challenges and considerations. For upper level undergraduates interested in learning about the transportation field in a broad but quantitative manner. Topics include road vehicle engineering, internal combustion engines, batteries and motors, electric and hybrid powertrains, urban and high speed rail transportation, water vessels, aircraft types and aerodynamics, radar, navigation, GPS, GIS. Students will complete a project on a subject of their choosing.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.682",
+  "course_image_thumbnail": {
+    "content": "47828ca9-d738-aff0-2e78-15b564b8add5",
+    "website": "16-682-technology-in-transportation-spring-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "9e987fba-79de-4e39-842b-abe8fa0c5368",
+  "site_short_id": "16.682-spring-2011",
+  "site_url_path": "courses/16-682-technology-in-transportation-spring-2011",
+  "title": "Course Metadata"
+}
